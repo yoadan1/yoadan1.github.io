@@ -1,0 +1,35 @@
+h1{
+    color: black;
+    text-align: center;
+    background-color: blanchedalmond;
+    width: 100%;
+}
+img{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    height: 150px;
+    width: 150px;
+}
+body{
+    font-family: arial,sans-serif;
+    line-height: 1.6;
+    background-image: url(https://th.bing.com/th/id/OIP.eCmBg63tipCxrB0-DuSgSwHaHa?w=626&h=626&rs=1&pid=ImgDetMain);
+    background-size: cover;
+    background-position: center;
+
+    height: 500px;  /* Set a specific height for the box */
+    background-repeat: no-repeat;
+    padding: 10px 100px;
+    }
+
+p{
+    font-size: 16px;
+    color: #000000;
+
+}
+em{
+    color: rgb(43, 117, 160);
+    font-size: 15px;
+}
+    
